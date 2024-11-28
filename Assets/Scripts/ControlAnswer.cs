@@ -19,7 +19,7 @@ public class ControlAnswer : MonoBehaviour
     {
         if (CanCheck)
         {
-            _answerText.text = collision.gameObject.name;
+            _answerText.text = collision.gameObject.transform.GetChild(0).GetComponent<Text>().text;
 
             CanCheck = false;
             _player.PlayOneShot(_afterResult);
