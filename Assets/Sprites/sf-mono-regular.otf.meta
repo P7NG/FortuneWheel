@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5875f1c6d8318f34db132e2dc6d8fa51
+guid: 9a68710f1e869ad45966e60ea22f3d72
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - TT Limes Slab
+  - SF Mono
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

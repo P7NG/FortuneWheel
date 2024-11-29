@@ -17,7 +17,7 @@ public class Wheel : MonoBehaviour
 
         if (Speed > 0)
         {
-            _wheel.transform.Rotate(transform.forward * Speed);
+            _wheel.transform.Rotate(-transform.forward * Speed);
 
             Speed -= _stopAcceleration * Time.deltaTime;
         }

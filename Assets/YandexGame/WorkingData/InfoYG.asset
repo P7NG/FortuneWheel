@@ -220,9 +220,9 @@ MonoBehaviour:
   fonts:
     defaultFont: []
     ru:
-    - {fileID: 12800000, guid: 5875f1c6d8318f34db132e2dc6d8fa51, type: 3}
+    - {fileID: 12800000, guid: 9a68710f1e869ad45966e60ea22f3d72, type: 3}
     en:
-    - {fileID: 12800000, guid: 5875f1c6d8318f34db132e2dc6d8fa51, type: 3}
+    - {fileID: 12800000, guid: 9a68710f1e869ad45966e60ea22f3d72, type: 3}
     tr: []
     az: []
     be: []
